@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code1.iml" filepath="$PROJECT_DIR$/code1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-code/com.chenxiDemo2/com.chenxiDemo2.iml" filepath="$PROJECT_DIR$/day03-code/com.chenxiDemo2/com.chenxiDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-code/day03-code.iml" filepath="$PROJECT_DIR$/day03-code/day03-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day03-second.iml" filepath="$PROJECT_DIR$/day02/day03-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-code/day04-code.iml" filepath="$PROJECT_DIR$/day04-code/day04-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-code/day05.iml" filepath="$PROJECT_DIR$/day05-code/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/day06.iml" filepath="$PROJECT_DIR$/day06/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/day07.iml" filepath="$PROJECT_DIR$/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/day08.iml" filepath="$PROJECT_DIR$/day08/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09/day09.iml" filepath="$PROJECT_DIR$/day09/day09.iml" />
+    </modules>
+  </component>
+</project>
